@@ -1,0 +1,54 @@
+
+
+QPushButton:hover {
+
+    background-color:#b8f4ff;
+   /*background-color: qconicalgradient(cx:0.5, cy:0.522909, angle:179.9, stop:0.494318 rgba(181, 225, 250, 255), stop:0.5 rgba(222, 242, 251, 255));*/
+}
+
+
+QPushButton:pressed {
+   background-color: #b8e4ff;
+      border-style: inset;
+  }
+
+QPushButton{
+    border-style:outset;
+    border-color:gray;
+    border-width:1px;
+    border-radius:7px;
+    padding:5px;
+    background-color:rgba(255,255,255,255);   /*alpha  表示透明的 ; 255才是完全不透明*/
+
+}
+
+QLabel{
+
+color:black;
+
+}
+
+QLabel#label_background{
+
+background-color:rgb(255,255,255,255);
+
+}
+
+
+QComboBox{
+
+background-color:white;
+border-width:1px;
+border-color:black;
+
+}
+
+#QStatusBar{
+
+background-color:rgb(255,195,195,255);
+
+}
+
+
+
+

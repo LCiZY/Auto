@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>filesaveas_ac_32.png</file>
+        <file>exit_ac_32.png</file>
+        <file>openFile_ac_32.png</file>
+        <file>start_ac_32.png</file>
+        <file>stop_ac_32.png</file>
+        <file>setting_ac_32.png</file>
+        <file>ac/shut_detail_ac_32.png</file>
+        <file>ac/script_ac.png</file>
+        <file>ac/show_detail_ac_32.png</file>
+        <file>ac/save_ac_32.png</file>
+    </qresource>
+</RCC>
