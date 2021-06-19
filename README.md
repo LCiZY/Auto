@@ -1,6 +1,6 @@
 # Auto
 - A tool that can replay our keyboard/mouse action.
-- 可以记录全局键盘输入和鼠标事件的小工具（不完善）。
+- 可以记录并回放全局键盘输入和鼠标事件的小工具（不完善）。
 
 
 ### 前言
